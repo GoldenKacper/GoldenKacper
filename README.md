@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Concurrent-Programming](https://github.com/GoldenKacper/Concurrent-Programming.git)
 
-- 🌱 I’m currently learning **Microsoft Visual Studio, C# and C**
+- 🌱 I’m currently learning **Neural Networks, C and C#**
 
 - 👯 I’m looking to collaborate on [Intelligent State Detector](https://github.com/Tomunek/ISD.git)
 
