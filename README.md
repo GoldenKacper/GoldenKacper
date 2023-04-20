@@ -11,11 +11,11 @@
 
 - 👯 I’m looking to collaborate on [Intelligent State Detector](https://github.com/Tomunek/ISD.git)
 
-- 👨‍💻 All of my projects are available at [On This profile](On This profile)
+- 👨‍💻 All of my projects are available on This profile
 
 - 📫 How to reach me **242403@edu.p.lodz.pl**
 
-- 📄 Know about my experiences [I am looking for my first programmer job](I am looking for my first programmer job)
+- 📄 Know about my experiences: I am looking for my first programmer job
 
 - ⚡ Fun fact **I was lucky enough to have found something I like since I was a child, and this passion turned out to be programming. Some time has passed, about 10 years, and I am still developing in the direction that I like**
 
