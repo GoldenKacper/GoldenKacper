@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kacper Jagodziński</h1>
 <h3 align="center">A passionate developer from Poland</h3>
+<h4 align="left">My favorite languages and the ones I am best at are C++ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> and Python <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goldenkacper&label=Profile%20views&color=0e75b6&style=flat" alt="goldenkacper" /> </p>
 
