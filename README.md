@@ -34,3 +34,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=goldenkacper&show_icons=true&locale=en" alt="goldenkacper" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=goldenkacper&" alt="goldenkacper" /></p>
+
+<h3 align="left">Short about me:</h3>
