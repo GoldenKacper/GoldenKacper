@@ -36,3 +36,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=goldenkacper&" alt="goldenkacper" /></p>
 
 <h3 align="left">Short about me:</h3>
+<a> tekst</a>
