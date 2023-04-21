@@ -36,4 +36,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=goldenkacper&" alt="goldenkacper" /></p>
 
 <h3 align="left">Short about me:</h3>
-<a> tekst</a>
+<a>I have been passionate about programming for a long time, it started with writing websites in HTML and CSS, then C # and C ++, up to studies where we tried many different languages and environments. Sometimes in my free time I do my projects or devote it to study programming. My two favorite languages are C++ and Python, I feel good and I like coding in them.</a>
