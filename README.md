@@ -11,7 +11,7 @@
 - 🌱 I'm curently learning **Machine Learning and MLOps**
 
 - 🌲 I last learning **Neural Networks, C and C#**
-
+ 
 - 💻 I am planning to make a project in Python, the topic is to make it easier to apply for various positions using a list of popular websites
   
 - 🔭 I’m recently working on [Concurrent-Programming](https://github.com/GoldenKacper/Concurrent-Programming.git)
