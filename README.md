@@ -44,6 +44,8 @@
 
 <h3 align="left">Projects:</h3>
 <p>
+</br>
+<p align="center"><img src="https://github.com/GoldenKacper/Garden-Shop/blob/main/images/shop-icon.png" alt="Logo" width="100" height="100"></p>
 <h4>1)</h4>
  My first large C++ project done entirely by me is: https://github.com/GoldenKacper/Garden-Shop.git </br>
 This is software for a gardening store. At that time, this project turned out to be quite an undertaking and allowed me to complete a milestone on my path as a programmer. I gained a lot of theory which I tried to put into practice. Thanks to it, I learned, among other things:
@@ -56,7 +58,8 @@ This is software for a gardening store. At that time, this project turned out to
 
 and many others, which are described in more detail in the readme.md of this project on github.
 I made it a year ago, since then I have caught a lot of mistakes I made in it, I have learned a lot since then.
-</br>
+</br></br>
+<p align="center"><img src="https://github.com/GoldenKacper/Concurrent-Programming/blob/main/images/image_2.png" alt="Logo" width="100" height="100"></p>
 <h4>2)</h4> 
 A project currently being written in C# by the duo: https://github.com/GoldenKacper/Concurrent-Programming.git </br>
 It was born out of a desire to learn concurrent programming. The idea of ​​the project itself is very simple, it is simply balls bouncing off the walls and each other, but it provides a lot of scope for learning various programming techniques.
@@ -70,7 +73,8 @@ The most important things I learn while working on this project are:
   -  using the MVVM pattern
 
 I describe more benefits of this project in the readme.md file.
-</br>
+</br></br>
+<p align="center"><img src="https://github.com/Tomunek/ISD/blob/master/images/roadmap.png" alt="Logo" width="100" height="100"></p>
 <h4>3)</h4> 
 The desire to learn and develop towards artificial intelligence resulted in the creation of this project: https://github.com/Tomunek/ISD.git </br>
 Intelligent State Detector is a project in which, as a group of 4 people, we try to make a device that will enable the examination of the state of the user who wears it. For this we use a neural network that I created and implemented in C without using libraries. Detailed plans for the network and the entire project are in the GitHub repository.
