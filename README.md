@@ -7,8 +7,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=goldenkacper" alt="goldenkacper" /></a> </p>
 
 - 👯 I’m curently finishing work on [Intelligent State Detector](https://github.com/Tomunek/ISD.git)
+  
+- 🌱 I'm curently learning **Machine Learning and MLOps**
 
-- 🌱 I’m currently learning **Neural Networks, C and C#**
+- 🌲 I last learning **Neural Networks, C and C#**
   
 - 🔭 I’m recently working on [Concurrent-Programming](https://github.com/GoldenKacper/Concurrent-Programming.git)
 
