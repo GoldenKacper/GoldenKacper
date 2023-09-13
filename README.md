@@ -74,9 +74,9 @@ The most important things I learn while working on this project are:
 
 I describe more benefits of this project in the readme.md file.
 </br></br>
-<p align="center"><img src="https://github.com/Tomunek/ISD/blob/master/images/roadmap.png" alt="Logo" width="100" height="100"></p>
+<p align="center"><img src="https://github.com/GoldenKacper/ISD/blob/master/images/roadmap.png" alt="Logo" width="100" height="100"></p>
 <h4>3)</h4> 
-The desire to learn and develop towards artificial intelligence resulted in the creation of this project: https://github.com/Tomunek/ISD.git </br>
+The desire to learn and develop towards artificial intelligence resulted in the creation of this project: https://github.com/GoldenKacper/ISD </br>
 Intelligent State Detector is a project in which, as a group of 4 people, we try to make a device that will enable the examination of the state of the user who wears it. For this we use a neural network that I created and implemented in C without using libraries. Detailed plans for the network and the entire project are in the GitHub repository.
 I gained knowledge in the field of:
 
